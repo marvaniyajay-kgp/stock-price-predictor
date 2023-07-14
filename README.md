@@ -1,1 +1,1 @@
-# stock-price-pridiction
+# LSTM-STOCK-PREDICTOR
